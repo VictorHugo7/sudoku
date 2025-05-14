@@ -1,5 +1,5 @@
 
-# Sudoko
+# Sudoku
 
 Neste repositório se encontra a resolução do desafio de desenvolver um jogo Sudoko em Java, utilizando os ensinamentos de Java Orientado a Objetos, obtidos através do Bootcamp Bradesco Java Cloud Native
 
