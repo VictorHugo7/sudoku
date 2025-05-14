@@ -1,7 +1,7 @@
 
 # Sudoku
 
-Neste commit se encontra a resolução do desafio de desenvolver um jogo Sudoku em Java, utilizando os ensinamentos de Java Orientado a Objetos, obtidos através do Bootcamp Bradesco Java Cloud Native
+Neste repositório se encontra a resolução do desafio de desenvolver um jogo Sudoku em Java, utilizando os ensinamentos de Java Orientado a Objetos, obtidos através do Bootcamp Bradesco Java Cloud Native
 
 # Argumentos para passar no running do projeto
 
